@@ -15,13 +15,17 @@ This project analyzed consumer data to find shopping patterns and insights usefu
 
 ## How to Run Program
 
-Open the application URL. 
+Open the application URL in the Final Report document. 
 
 ## Files Used
 
 * Ecommerce Consumer Behavior Analysis Data from Kaggle
   * https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
-    * This project analyzed consumer behavior data to uncover key shopping trends. Customers aged 35–44 spent the most, while product ratings had little impact on loyalty. Top revenue categories included Jewelry, Sports, and Electronics. Non-binary customers preferred in-store shopping, and high school graduates showed strong loyalty. The APEX app helps businesses target key segments and improve marketing strategies.
+    * This project analyzed consumer behavior data to uncover key shopping trends.
+      * Customers aged 35–44 spent the most, while product ratings had little impact on loyalty.
+      * Top revenue categories included Jewelry, Sports, and Electronics.
+      * Non-binary customers preferred in-store shopping, and high school graduates showed strong loyalty.
+      * The APEX app helps businesses target key segments and improve marketing strategies.
    
 ## Additional Documentation
 
