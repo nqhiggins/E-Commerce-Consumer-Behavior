@@ -32,4 +32,4 @@ Open the application URL in the Final Report document.
 **There is not any additional documentation at this time.**
 
 ## Versioning
-<ins>This group project had five people making regular updates often.</ins>
+This group project had five people making regular updates often.
